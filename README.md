@@ -1,8 +1,6 @@
 ### Eu sou o Henrique!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqaqui/)
 
-##
-
 <a href="https://github.com/henriqaqui">
   <img height=130em align="center" src="https://github-readme-stats.vercel.app/api?username=henriqaqui&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
 </a>
