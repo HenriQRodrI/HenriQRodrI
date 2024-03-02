@@ -4,10 +4,10 @@
 ##
 
 <a href="https://github.com/henriqaqui">
-  <img height=100em align="center" src="https://github-readme-stats.vercel.app/api?username=henriqaqui&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
+  <img height=130em align="center" src="https://github-readme-stats.vercel.app/api?username=henriqaqui&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/henriqaqui">
-  <img height=100em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqaqui&layout=compact&langs_count=8&hide_title=true" />
+  <img height=130em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqaqui&layout=compact&langs_count=8&hide_title=true" />
 </a>
 <!--https://github.com/anuraghazra/github-readme-stats/-->
 
