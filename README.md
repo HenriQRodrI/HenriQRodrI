@@ -2,10 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqrodri/)
 
 <a href="https://github.com/HenriQRodrI">
-  <img height=130em align="center" src="https://github-readme-stats.vercel.app/api?username=henriqaqui&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
+  <img height=130em align="center" src="https://github-readme-stats.vercel.app/api?username=HenriQRodrI&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/HenriQRodrI">
-  <img height=130em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqaqui&layout=compact&langs_count=8&hide_title=true" />
+  <img height=130em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriQRodrI&layout=compact&langs_count=8&hide_title=true" />
 </a>
 <!--https://github.com/anuraghazra/github-readme-stats/-->
 
